@@ -27,9 +27,7 @@ const Footer = () => {
             <p>
               <a href="#">Book-IT</a>
             </p>
-            <p>
-              <a href="https://akshatjalan.github.io/akshat/">Portfolio</a>
-            </p>
+           
           </MDBCol>
 
           <hr className="w-100 clearfix d-md-none" />
@@ -38,12 +36,12 @@ const Footer = () => {
               <strong>Contact</strong>
             </h6>
             <p>
-              <i className="fa fa-envelope mr-3" /> &nbsp;jalanakshat2@gmail.com
+              <i className="fa fa-envelope mr-3" /> &nbsp;ajitinfo143@gmail.com
             </p>
             <p>
               <a
                 className="btn-floating btn-sm rgba-white-slight mx-1"
-                href="https://www.linkedin.com/in/akshat-jalan/"
+                href="https://www.linkedin.com/in/ajiit23/"
               >
                 <i className="fab fa-linkedin-in" /> &nbsp;LinkedIn
               </a>
@@ -55,7 +53,7 @@ const Footer = () => {
           <MDBCol md="8" lg="8">
             <p className="text-center text-md-left grey-text">
               &copy; {new Date().getFullYear()} Made by
-              <a href=""> Akshat Jalan </a>
+              <a href=""> Ajit </a>
             </p>
           </MDBCol>
           <MDBCol md="4" lg="4" className="ml-lg-0">
@@ -64,7 +62,7 @@ const Footer = () => {
                 <li className="list-inline-item">
                   <a
                     className="btn-floating btn-sm rgba-white-slight mx-1"
-                    href="http://github.com/Akshatjalan"
+                    href="http://github.com/ajiit23"
                   >
                     <i className="fab fa-github" />
                   </a>
@@ -72,7 +70,7 @@ const Footer = () => {
                 <li className="list-inline-item">
                   <a
                     className="btn-floating btn-sm rgba-white-slight mx-1"
-                    href="https://www.linkedin.com/in/akshat-jalan/"
+                    href="https://www.linkedin.com/in/ajiit23/"
                   >
                     <i className="fab fa-linkedin-in" />
                   </a>
@@ -80,7 +78,7 @@ const Footer = () => {
                 <li className="list-inline-item">
                   <a
                     className="btn-floating btn-sm rgba-white-slight mx-1"
-                    href="https://www.instagram.com/akshatxjalan/"
+                    href="https://www.instagram.com/ajit_who/"
                   >
                     <i className="fab fa-instagram" />
                   </a>
