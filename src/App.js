@@ -137,6 +137,7 @@ const App = () => {
                 totalItems={cart.total_items}
                 handleDrawerToggle={handleDrawerToggle}
               />
+                  
               <Switch>
                 <Route exact path="/">
                   <Products
